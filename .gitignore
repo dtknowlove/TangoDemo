@@ -1,3 +1,6 @@
-Assembly-CSharp-Editor.csproj
-Assembly-CSharp.csproj
-TangoDemo.sln
+*.csproj
+*.sln
+.idea/
+Temp/
+Library/
+obj/
